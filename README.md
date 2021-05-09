@@ -1,11 +1,11 @@
-### Hi!, i am developer 👋
+### Hi!, i am fullStack developer 👋
 
     const mySo = {
       Distros: ['elementary OS', 'ArchLinux' ],
       getDistros(){
         return this.Distros
       },
-      helloWord(msg = 'Hi!, i am developer 👋'){
+      helloWord(msg = 'Hi!, i am fullStack developer 👋'){
         return msg
       },
       getAll() { return [this.getDistros(), this.helloWord()] }
