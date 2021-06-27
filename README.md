@@ -88,3 +88,44 @@
 
       app.listen(process.env.PORT || 3000, () =>
         console.log(`http://localhost:${3000}`))
+
+# formated
+
+    sudo apt-get update && sudo apt-get upgrade
+
+    # nano /etc/sudoers 
+    # nax ALL=(ALL) NOPASSWD:ALL
+
+    # git
+    apt-get install git
+    git --version
+
+    # brave
+    sudo apt install apt-transport-https curl
+
+    sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+
+    echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+
+    sudo apt update
+
+    sudo apt install brave-browser
+
+    # sublime 4
+    wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+
+    sudo apt-get install apt-transport-https
+
+    echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+
+    sudo apt-get update
+    sudo apt-get install sublime-text
+
+    # nvm 
+    # curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+    # source ~/.bashrc 
+    # nvm install 16 
+    # nvm use 16
+
+    # yarn
+    # npm install --global yarn
