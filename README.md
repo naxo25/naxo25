@@ -25,7 +25,9 @@
           deploy: ['movil','tv','web'],
           exp: 
 
-  [Github Quasar Chat](https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase)
+  [App-Chat-Quasar-VueJs-Firebase](https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase)
+  
+  [App-Chat-V2-Quasar2-VueJs3-Firebase](https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase-V2)
 
   [Demo Web](https://nacholabraweb.000webhostapp.com/pwa/EjApp)
 
