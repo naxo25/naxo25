@@ -6,7 +6,7 @@
         router: 'Vue-router',
         backend: 'Firebase',
         framework: 'Quasar', 
-        deploy: ['movil','tv','web'],
+        deploy: ['Android', 'TV', 'Spa', 'Ssr', 'Electron'],
         experience: {
           https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase
           https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase-V2
@@ -18,8 +18,8 @@
       },
       NodeJs: {
         framework: 'express',
-        database: 'mySql',
-        frontend: 'vueJs',
+        database: 'MySql',
+        frontend: 'VueJs',
         experience: https://github.com/naxo25/nodejs-mysql-vue
       },
       Js: { 
@@ -38,6 +38,7 @@
         github: https://github.com/naxo25
         site: https://nacholabraweb.000webhostapp.com
         Tutoriales: https://nacholabraweb.000webhostapp.com/Tutoriales/#/Linux
+        otherCodes: https://github.com/naxo25/misc
       }
     };
 
