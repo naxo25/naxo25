@@ -1,16 +1,17 @@
     const myProfile = {
       Distros: ['elementary OS', 'ArchLinux' ],
       VueJs: { 
-        Versions: [2,3], 
-        stateManager: ['Vuex','reactive'],
-        router: 'Vue-router',
-        backend: 'Firebase',
-        framework: 'Quasar', 
-        deploy: ['Android', 'TV', 'Spa', 'Ssr', 'Electron'],
-        experience: {
-          https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase
-          https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase-V2
-          https://cl.estadio.com/
+        Habilities: [Vue2, Vue3, Quasar, Vuex, reactive, Vue-router, Firebase],
+        Deploy: [Android, Smart-TV, Spa, Ssr, Electron],
+        Experience: {
+          Estadio TNT Sports: 
+            Web: https://cl.estadio.com/,
+            LG Smart-tv: https://www.linkedin.com/feed/update/urn:li:activity:6839580386524233728/
+          CFGym (web mobile): https://nacholabraweb.000webhostapp.com/pwa/EjApp/#/Login
+          naxChat (web móbile, Android): 
+            V1: https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase
+            V2: https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase-V2
+            Android: https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase/blob/main/dist/Android/naxChat_Capacitor.apk
         }
       },
       ReactJs: {
