@@ -15,24 +15,19 @@
         }
       },
       ReactJs: {
-        example: https://codesandbox.io/s/jolly-dew-c3ymz
+        https://codesandbox.io/s/jolly-dew-c3ymz
       },
       NodeJs: {
-        framework: 'express',
-        database: 'MySql',
-        frontend: 'VueJs',
-        experience: https://github.com/naxo25/nodejs-mysql-vue
+        https://github.com/naxo25/nodejs-mysql-vue
       },
       Js: { 
-        experience: {
-          https://github.com/naxo25/Responsive-Tables-Api-Pokemons-Css-Js
-          https://github.com/naxo25/App_Toma-Turnos
-        }
+        https://github.com/naxo25/Responsive-Tables-Api-Pokemons-Css-Js
+        https://github.com/naxo25/App_Toma-Turnos
       },
       U: {
         python: https://github.com/naxo25/Trabajo-de-Titulo-UTFSM,
-        jqueryPhp: https://github.com/naxo25/Practica
-        usm: https://github.com/naxo25/UTFSM
+        jQuery-Php: https://github.com/naxo25/Practica
+        Utfsm: https://github.com/naxo25/UTFSM
       },
       others: {
         youTube: https://www.youtube.com/channel/UClJr019QbaWJy3klKDOenXQ
