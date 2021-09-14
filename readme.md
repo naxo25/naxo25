@@ -4,14 +4,12 @@
         Habilities: [Vue2, Vue3, Quasar, Vuex, reactive, Vue-router, Firebase],
         Deploy: [Android, Smart-TV, Spa, Ssr, Electron],
         Experience: {
-          Estadio TNT Sports: 
-            Web: https://cl.estadio.com/,
-            LG Smart-tv: https://www.linkedin.com/feed/update/urn:li:activity:6839580386524233728/
-          CFGym (web mobile): https://nacholabraweb.000webhostapp.com/pwa/EjApp/#/Login
-          naxChat (web móbile, Android): 
-            V1: https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase
-            V2: https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase-V2
-            Android: https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase/blob/main/dist/Android/naxChat_Capacitor.apk
+          Estadio TNT Sports (Web): https://cl.estadio.com
+          Estadio TNT Sports (LG): https://www.linkedin.com/feed/update/urn:li:activity:6839580386524233728
+          CFGym (Web mobile): https://nacholabraweb.000webhostapp.com/pwa/EjApp/
+          naxChat Web móvil V1: https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase
+          naxChat Web móvil V2: https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase-V2
+          naxChat Android: https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase/blob/main/dist/Android/naxChat_Capacitor.apk
         }
       },
       ReactJs: {
