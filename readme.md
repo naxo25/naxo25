@@ -68,3 +68,9 @@
 
 #### Yarn
     npm install --global yarn
+    
+# Atajos terminal
+    alt + q -> subl
+    alt + w -> /bin/bash /usr/bin/brave-browser
+    alt + e -> io.elementary.files
+    alt + r -> io.elementary.terminal
