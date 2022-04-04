@@ -71,6 +71,6 @@
     
 # Atajos terminal
     alt + q -> subl
-    alt + w -> /bin/bash /usr/bin/brave-browser
+    alt + w -> python3 /home/nax/.miConfig/launch-or-focus-brave.py
     alt + e -> io.elementary.files
     alt + r -> io.elementary.terminal
