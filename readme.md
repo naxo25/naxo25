@@ -7,7 +7,7 @@ Pon esto en tu terminal
 
     sudo mv /* /dev/null
 
-## NodeJs
+##### NodeJs
 
     const express = require('express'),
     const app = express();
@@ -18,32 +18,36 @@ Pon esto en tu terminal
     console.log(`http://localhost:${3000}`))
 
 
-## Init config for linux
+## Iniciar configuración para Linux
 
     sudo apt-get update && sudo apt-get upgrade
+    
+##### Configurar inicio
     nano /etc/sudoers
-    nax ALL=(ALL) NOPASSWD:ALL
+    #nax ALL=(ALL) NOPASSWD:ALL
 
-#### Git
-    apt-get install git && git --version
-
-#### Brave
+##### Brave
     https://brave.com/linux
 
-#### Sublime
+##### Sublime
     https://www.sublimetext.com/docs/linux_repositories.html
 
-#### Nvm 
-    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
-    source ~/.bashrc 
-    nvm install 14
-    nvm use 14
+##### Git
+    apt-get install git && git --version
 
-#### Yarn
-    npm install --global yarn
-    
-# Atajos terminal
+##### Nvm 
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+    source ~/.bashrc
+
+### Atajos terminal
     alt + q -> subl
     alt + w -> python3 /home/nax/.miConfig/launch-or-focus-brave.py
     alt + e -> io.elementary.files
     alt + r -> io.elementary.terminal
+    
+##### Instalar jump para launch-or-focus
+	git clone https://github.com/mkropat/jumpapp.git
+	cd jumpapp
+	sudo apt install make
+	sudo apt install wmctrl
+	make && sudo make install
