@@ -46,8 +46,19 @@ Pon esto en tu terminal
     alt + r -> io.elementary.terminal
     
 ##### Instalar jump para launch-or-focus
-	git clone https://github.com/mkropat/jumpapp.git
-	cd jumpapp
-	sudo apt install make
-	sudo apt install wmctrl
-	make && sudo make install
+    alt + r -> io.elementary.terminal
+    git clone https://github.com/mkropat/jumpapp.git
+    cd jumpapp
+    sudo apt install make
+    sudo apt install wmctrl
+    make && sudo make install
+	
+##### Config editor
+
+    Console wrap
+    Matherial Theme
+    StandardFormat
+    tailwind CSS Autocomplete
+    Vue syntax highlight
+
+https://github.com/naxo25/Snippets-Copilot
