@@ -4,4 +4,4 @@
 
 ## Iniciar configuración para Linux
 
-    https://github.com/naxo25/Linux
+https://github.com/naxo25/Linux
