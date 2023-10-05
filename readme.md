@@ -20,6 +20,18 @@ Estadio TNT Sports, dipositivos LG, Samsung y [web](https://cl.estadio.com) (Est
 
 [Videojuego en Python para U. Santa María](https://drive.google.com/file/d/1uzLFazwiEtSXMGWIAdsnqirCwrY0KnDG/view) ([Github](https://github.com/naxo25/Trabajo-de-Titulo-UTFSM))
 
+
+## Al formatear
+
+Borrar node_modules en carpeta ubicada
+
+    # Listar
+    find . -name "node_modules" -type d -prune | xargs du -chs
+
+Borrar
+
+    find . -name 'node_modules' -type d -prune -print -exec rm -rf '{}' \;
+
 ### Iniciar configuración para Linux
 https://github.com/naxo25/Linux
 
