@@ -32,6 +32,10 @@ Borrar
 
     find . -name 'node_modules' -type d -prune -print -exec rm -rf '{}' \;
 
+Borrar los registros del diario systemd
+
+    sudo journalctl --vacuum-time=3d
+
 ### Iniciar configuración para Linux
 https://github.com/naxo25/Linux
 
